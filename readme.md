@@ -1,8 +1,8 @@
-#About me..
+# About me..
 I am a year 2 cs student. I love computer because i love playing computer games.
 Although i am studying cs, i am a **handsome boy**.
 
-##Skills..
+## Skills..
 *Programming Language
   *Pascal
   *C
@@ -15,13 +15,13 @@ Although i am studying cs, i am a **handsome boy**.
   *Premiere Pro
   *Sketch
 
-##Things to Complete..
+## Things to Complete..
 - [x] Hardworking
 - [ ] Become muscular
 - [ ] Cure my acne
 - [ ] Dye my hair
 
-##Project Milestone
+## Project Milestone
 Progress | Status
 ---------- | ----------
 Milestone #1 | Complete
